@@ -1,0 +1,9 @@
+<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Opsvera Favicon 16</title>
+  
+  <!-- Outer Hexagon -->
+  <polygon points="8,1 14,4.5 14,11.5 8,15 2,11.5 2,4.5" fill="#2563EB"/>
+  
+  <!-- Inner Ring for "O" (Much sharper than text at 16px) -->
+  <circle cx="8" cy="8" r="3.5" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+</svg>

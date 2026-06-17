@@ -1,0 +1,30 @@
+<svg width="240" height="60" viewBox="0 0 240 60" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Opsvera Logo Dark</title>
+  <desc>Opsvera full logo with wordmark for dark mode</desc>
+
+  <g transform="translate(0, -3)">
+    <!-- ── MARK (Scaled to fit 60px height) ── -->
+    <g transform="scale(0.55)">
+      <polygon points="60,11 103,36 103,86 60,111 17,86 17,36" fill="#2563EB"/>
+      <polygon points="60,25 90,42 90,79 60,96 30,79 30,42" fill="none" stroke="#60A5FA" stroke-width="2" opacity="0.6"/>
+      <circle cx="60" cy="11" r="5.5" fill="#93C5FD"/>
+      <circle cx="103" cy="36" r="5.5" fill="#93C5FD"/>
+      <circle cx="103" cy="86" r="5.5" fill="#93C5FD"/>
+      <circle cx="60" cy="111" r="5.5" fill="#93C5FD"/>
+      <circle cx="17" cy="86" r="5.5" fill="#93C5FD"/>
+      <circle cx="17" cy="36" r="5.5" fill="#93C5FD"/>
+      <line x1="60" y1="61" x2="60" y2="25" stroke="#60A5FA" stroke-width="1.5" opacity="0.4"/>
+      <line x1="60" y1="61" x2="90" y2="42" stroke="#60A5FA" stroke-width="1.5" opacity="0.4"/>
+      <line x1="60" y1="61" x2="90" y2="79" stroke="#60A5FA" stroke-width="1.5" opacity="0.4"/>
+      <line x1="60" y1="61" x2="60" y2="96" stroke="#60A5FA" stroke-width="1.5" opacity="0.4"/>
+      <line x1="60" y1="61" x2="30" y2="79" stroke="#60A5FA" stroke-width="1.5" opacity="0.4"/>
+      <line x1="60" y1="61" x2="30" y2="42" stroke="#60A5FA" stroke-width="1.5" opacity="0.4"/>
+      <circle cx="60" cy="61" r="3.5" fill="#BFDBFE" opacity="0.9"/>
+      <text x="60" y="61" dominant-baseline="central" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="52" font-weight="800" fill="#FFFFFF" letter-spacing="-1">O</text>
+    </g>
+
+    <!-- ── WORDMARK ── -->
+    <text x="76" y="38" dominant-baseline="central" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">Ops</text>
+    <text x="129" y="38" dominant-baseline="central" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="400" fill="#93C5FD" letter-spacing="-0.2">vera</text>
+  </g>
+</svg>

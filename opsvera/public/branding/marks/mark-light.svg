@@ -1,0 +1,41 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Opsvera Mark Light</title>
+  <desc>Opsvera hexagon mark in light mode (transparent background)</desc>
+
+  <!-- Hex body -->
+  <polygon points="60,11 103,36 103,86 60,111 17,86 17,36"
+           fill="#2563EB"/>
+
+  <!-- Inner hex ring -->
+  <polygon points="60,25 90,42 90,79 60,96 30,79 30,42"
+           fill="none" stroke="#60A5FA" stroke-width="2" opacity="0.4"/>
+
+  <!-- Node dots -->
+  <circle cx="60"  cy="11"  r="5.5" fill="#1D4ED8"/>
+  <circle cx="103" cy="36"  r="5.5" fill="#1D4ED8"/>
+  <circle cx="103" cy="86"  r="5.5" fill="#1D4ED8"/>
+  <circle cx="60"  cy="111" r="5.5" fill="#1D4ED8"/>
+  <circle cx="17"  cy="86"  r="5.5" fill="#1D4ED8"/>
+  <circle cx="17"  cy="36"  r="5.5" fill="#1D4ED8"/>
+
+  <!-- Connector lines -->
+  <line x1="60" y1="61" x2="60"  y2="25"  stroke="#1D4ED8" stroke-width="1.5" opacity="0.3"/>
+  <line x1="60" y1="61" x2="90"  y2="42"  stroke="#1D4ED8" stroke-width="1.5" opacity="0.3"/>
+  <line x1="60" y1="61" x2="90"  y2="79"  stroke="#1D4ED8" stroke-width="1.5" opacity="0.3"/>
+  <line x1="60" y1="61" x2="60"  y2="96"  stroke="#1D4ED8" stroke-width="1.5" opacity="0.3"/>
+  <line x1="60" y1="61" x2="30"  y2="79"  stroke="#1D4ED8" stroke-width="1.5" opacity="0.3"/>
+  <line x1="60" y1="61" x2="30"  y2="42"  stroke="#1D4ED8" stroke-width="1.5" opacity="0.3"/>
+
+  <!-- Center dot -->
+  <circle cx="60" cy="61" r="3.5" fill="#DBEAFE" opacity="1"/>
+
+  <!-- O letterform -->
+  <text x="60" y="61"
+        dominant-baseline="central"
+        text-anchor="middle"
+        font-family="Inter, system-ui, sans-serif"
+        font-size="52"
+        font-weight="800"
+        fill="#FFFFFF"
+        letter-spacing="-1">O</text>
+</svg>
