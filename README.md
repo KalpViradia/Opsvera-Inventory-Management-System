@@ -59,7 +59,7 @@ Opsvera-Inventory-Management-System/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Opsvera-Inventory-Management-System.git
+git clone https://github.com/KalpViradia/Opsvera-Inventory-Management-System
 cd Opsvera-Inventory-Management-System
 ```
 
