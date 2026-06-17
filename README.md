@@ -70,10 +70,10 @@ cd opsvera
 npm install
 ```
 
-Copy `.env.example` to `.env` and configure your database URL and auth secrets:
+Create a `.env` file and configure your database URL and auth secrets:
 
 ```bash
-cp .env.example .env
+touch .env
 ```
 
 Set up the database:
@@ -99,7 +99,7 @@ In a **separate terminal**:
 ```bash
 cd opsvera-socket
 npm install
-cp .env.example .env
+touch .env # Configure your environment variables here
 npm run dev
 ```
 
