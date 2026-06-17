@@ -22,7 +22,7 @@ build/
 .env
 .env.local
 .env.*.local
-# Keep .env.example checked in
+.env.example
 
 # --- Testing ---
 coverage/
